@@ -1,0 +1,13 @@
+// // element-ui 主题设置文件
+// @forward "element-plus/theme-chalk/src/common/var.scss" with (
+//   $colors: (
+//     "primary": (
+//       "base": green,
+//     ),
+//   ),
+// );
+
+// // @use "element-plus/theme-chalk/src/index.scss" as *;
+#app{
+  --el-color-primary: green;
+}
